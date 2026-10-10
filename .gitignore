@@ -1,0 +1,12 @@
+# Private study data and generated outputs
+data/*
+!data/README.md
+output/
+*.sas7bdat
+*.rds
+*.RData
+*.Rhistory
+*.csv
+*.xlsx
+*.xls
+.DS_Store
